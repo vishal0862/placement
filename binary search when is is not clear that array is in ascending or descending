@@ -1,5 +1,3 @@
-
-import java.util.*;
 public class Hello {
     static int binarySearch(int[] arr, int target) {
         int start = 0;
